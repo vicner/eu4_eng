@@ -1733,7 +1733,6 @@
  GOTO_TRADENODE: "Go to trade node interface for §Y$NAME$§W"
  PART_OF_OUTGOING: "$OUT$% of the ducats ¤ in §Y$NAME$§W leaves the trade node."
  OTHER_OF_OUTGOING: "$STAY$% of the ducats ¤ in §Y$NAME$§W stays in the trade node."
- OPEN_SIEGE_VIEW: "Go to siege view.\nShortcut: §Yj§!"
  OPEN_PROVINCE_VIEW: "Go to province view.\nShortcut: §Yp§!"
  BUTTON_PROVINCE_VIEW: "Show Province"
  OPEN_UNIT_VIEW: "Go to unit view.\nShortcut: §Yu§!"
@@ -4089,3 +4088,4 @@
  TOOLTIP_TOGGLE_ALLOW_ATTACH_NAVY: "Allow friendly fleets to attach to this fleet"
  PRODUCTION_MODIFIER_EXCEPTION: "This province produces §Y$NAME$§! which is not impacted by production modifiers." 
  CONTINUE_GAME: "Continue Game"
+ OPEN_SIEGE_VIEW: "Open Siege View"

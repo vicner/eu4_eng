@@ -131,7 +131,7 @@
  NEWTRADEGOOD_2: "The trade good produced in"
  NEWTRADEGOOD_3: "$PROV$"
  NEWTRADEGOOD_4: "has changed to $GOOD|Y$."
- NEWTRADEGOOD_5: "You can never have too much $GOOD$!"
+ NEWTRADEGOOD_5: ""
  NEWTRADEGOOD_6: ""
  NEWTRADEGOOD_LOG: "$GOOD|Y$ now produced by $PROV$."
  NEWTRADEGOOD_BTN1: "OK"
