@@ -2655,7 +2655,7 @@ l_english:
  MACRO_TOO_FEW_MERCS: "Not enough mercenary regiments can be supported to build this template."
  MACRO_NO_MONEY: "§RNeed $NEEDED|0$¤ to build.§!"
  MACRO_IN_COMBAT: "There is currently a combat in $PROVINCE$."
- MACRO_OPEN_INTERFACE_TOOLTIP: "§YProduction Interface§!\nClick here to recruit units or construct buildings.\nUnits shortcut: §Yv§!\nBuildings shortcut: §Yb§!"
+ MACRO_OPEN_INTERFACE_TOOLTIP: "§YProduction Interface§!\nClick here to recruit units or construct buildings.\nShortcut: §Yb§!"
  MACRO_RULES: "Forbidden by rules."
  MACRO_WRONG_MANUFACTORY: "The Manufactory doesn't correspond to the goods produced in $PROVINCE$."
  MACRO_IS_COLONY: "$PROVINCE$ is a colony."
