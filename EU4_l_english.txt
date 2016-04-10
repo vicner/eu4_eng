@@ -947,7 +947,7 @@ l_english:
  root_out_corruption: "Rooting Out Corruption"
  corruption: "Corruption"
  CORRUPTION_SLIDER_TOOLTIP: "With this setting, we will pay up to $PERCENTAGE$% of our income to combat corruption. Currently, we pay $COST$¤ to reduce corruption with $ROOTOUT$ each year, for a total change of $CHANGE$."
- CORRUPTION_EXPLANATION: "Corruption increases over time due to unbalanced research, High government rank and high levels of mercantilism. It can be decreased by being ahead of time in administrative or diplomatic technology. If all else fails you can spend ducats to reduce corruption over time. Corruption can affect all power costs, minimum autonomy as well as spy defense and spy network construction speed."
+ CORRUPTION_EXPLANATION: "Corruption increases over time due to unbalanced research, overextension and lack of religious unity. It can be decreased by high stability and being ahead of time in administrative or diplomatic technology. If all else fails you can spend ducats to reduce corruption over time. Corruption can affect all power costs, minimum autonomy as well as spy defense and spy network construction speed."
  MERCANTILISM_LABEL: "Mercantilism"
  positive_piety: "Being Pious"
  negative_piety: "Lack of Piety"

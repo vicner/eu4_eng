@@ -711,7 +711,7 @@
  alert_low_stability_instant: "§YYour stability is low!§W"
  alert_low_stability_delayed: "Low stability will lead to increased unrest and reduced income, and may result in a Disaster befalling your country. Consider spending some adminstrative points to increase it."
  alert_large_merchant_republic_instant: "§YLarge Merchant Republic§W"
- alert_large_merchant_republic_delayed: "Your Merchant Republic has grown above its maximum sustainable size of $AMT|Y$ provinces. This reduces our yearly Republican Tradition by §R0.1§! for each extra province. (We currently have $EXCESS|R$ too many.)"
+ alert_large_merchant_republic_delayed: "Your Merchant Republic has grown above its maximum sustainable size of $AMT|Y$ provinces inside states. This reduces our yearly Republican Tradition by §R0.1§! for each extra province. (We currently have $EXCESS|R$ too many.)"
  alert_no_native_policy_instant: "§YYou need to choose a Native Policy!§!"
  alert_no_native_policy_delayed: "Before we can send colonists we need to choose our Native Policy."
  BOOKMARK_COUNTRY_EASY: "§GThis country is recommended for new players.§!"

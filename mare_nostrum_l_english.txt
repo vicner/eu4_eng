@@ -85,7 +85,7 @@ l_english:
  SHAREMAP_ENEMY: "They view us as their rival and will not share their maps with us."
  UNCONDITIONALSURRENDERTITLE: "Unconditional Surrender"
  UNCONDITIONALSURRENDERDESC: "Unconditionally surrender to them, giving them $MONTHS$ months to send us a peace offer."
- UNCONDITIONALSURRENDERREQDESC: "Do you wish to surrender unconditionally? $COUNTRY$ will have $MONTHS|Y$ months to send us a peace offer which will be automatically accepted. If they do not send one, there will be increasingly severe Calls for Peace in their country.\n\nOur armies that are in our home provinces will be exiled and thus protected once we do this.\n\nControl of all Provinces currently owned and Controlled by us and our allies will be transferred to the enemy."
+ UNCONDITIONALSURRENDERREQDESC: "Do you wish to surrender unconditionally? $COUNTRY$ will have $MONTHS|Y$ months to send us a peace offer which will be automatically accepted. If they do not send one, there will be increasingly severe Calls for Peace in their country.\n\nOur armies that are in our home provinces will be exiled and thus protected once we do this.\n\nControl of all provinces currently owned and controlled by us will be transferred to the enemy."
  WEUNCONDITIONALLYSURRENDERED: "We have unconditionally surrendered and are waiting for their reply."
  THEYUNCONDITIONALLYSURRENDERED: "$COUNTRY$ has unconditionally surrendered to us and we must send them a peace offer."
  WEUNCONDITIONALLYSURRENDEREDOTHER: "We have unconditionally surrendered to a third party."
