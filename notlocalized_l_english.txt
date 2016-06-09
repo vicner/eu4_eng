@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  TESTX:0 "test"
  COMBATEND_UNIT_GAINED:0 "Gained $NUM|Y$."
  TO_OUR_OVERLORD:0 "To our Overlord: $VALUE|2R$"

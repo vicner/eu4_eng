@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  refused_aid_traders:0 "Refused to aid Traders"
  desc_refused_aid_traders:0 "Local traders were refused funds to help them against the threat of privateers."
  reckless_privateer:0 "Reckless Privateer"
@@ -22,7 +22,7 @@ l_english:
  privateers.1.a:0 "Send them whatever they need."
  privateers.1.b:0 "They have enough money to fund those defenses themselves."
  privateers.2.t:0 "Invalid Letter of Marque?"
- privateers.2.d:0 "Privateering is always a difficult diplomatic issue, especially when no open war is conducted, and the distinction between an enemy who must be subject to certain rules of war and a lawless pirate is not always clear-cut. Even less so in the case of a recently captured vessel, which has displayed a letter of marque issued by a colonial governor with dubious authority.\n\nWhile this supposed privateer looks like a simple pirate to us, accepting the letter as valid may allow us to maintain better diplomacy with his masters."
+ privateers.2.d:1 "Privateering is always a difficult diplomatic issue, especially when no open war is conducted, and the distinction between an enemy who must be subject to certain rules of war and a lawless pirate is not always clear-cut. Even less so in the case of a recently captured vessel, which has displayed a letter of marque issued by a colonial governor with dubious authority.\n\nWhile this supposed privateer looks like a simple pirate to us, accepting the letter as valid may allow us to maintain better diplomacy with his masters."
  privateers.2.a:0 "This flimsy excuse can't be allowed to spare him from the gallows!"
  privateers.2.b:0 "We can afford to show some lenience in this rare case."
  privateers.3.t:0 "Invalid Letter of Marque?"

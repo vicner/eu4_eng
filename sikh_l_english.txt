@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  guru_angad:0 "Guru Angad"
  desc_guru_angad:0 "The Sikh Guru is spreading the use of the Gurmukhi alphabet, promoting education."
  guru_amar_das:0 "Guru Amar Das"

@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  shiva_srishti:0 "Srishti"
  desc_shiva_srishti:0 "Understanding of Shiva's creative actions motivates the ruler to build a creative legacy."
  shiva_tirodhana:0 "Tirodhana"

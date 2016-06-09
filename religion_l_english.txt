@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  shiva:0 "Shiva"
  ganesha:0 "Ganesha"
  surya:0 "Surya"

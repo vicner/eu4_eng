@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  embraced_absolutism:0 "Embraced Absolutist Ideals"
  rejected_absolutism:0 "Rejected Absolutist Ideals"
  accepted_act_of_seclusion:0 "Accepted Act of Seclusion"
@@ -477,7 +477,7 @@ l_english:
  ideagroups.1803.a:0 "A shepherd shears his sheep; he does not slay them."
  ideagroups.1804.t:0 "Fair Dealing"
  ideagroups.1804.d:0 "An empire with colonies and vassals resembles a rowdy family, and it takes a firm but fair hand to keep everything in line. Recent policies have won the admiration of our subject nations and bring all of us closer together."
- ideagroups.1804.a:0 "I love you guys."
+ ideagroups.1804.a:0 "It was always for your own good."
  ideagroups.1805.t:0 "A Firm Hand"
  ideagroups.1805.d:0 "The proper application of pressure and levers has enabled us to squeeze a little more out of our vassals. They may not like it, but they are the servants and we are the masters. They may have finally gotten the message - for now."
  ideagroups.1805.a:0 "What's yours is mine."
