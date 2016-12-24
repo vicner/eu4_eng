@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
  AI_CITY_STATE_NAME:0 "Місто $PROVINCE$"
- AI_CITY_STATE_ADJ:0 "$PROVINCE$'s"
+ AI_CITY_STATE_ADJ:0 "$PROVINCE$"
  WOULD_DECREASE_OPINION_PER_PROVINCE_BY:0 "Їхнє ставлення до нас погіршиться на $VAL$ за провінцію але не сильніше, ніж на $LIMIT$."
  scaled_trade_league_leader:0 "Лідер Торгової Ліги (в залежності від кількості членів)"
  in_trade_league:0 "Перебуває в Торговій Лізі"
