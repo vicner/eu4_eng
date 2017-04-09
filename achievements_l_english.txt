@@ -240,3 +240,6 @@
  achievement_core_fu_tooltip:0 "Forced a Country to revoke 5 Cores in one peace deal."
  achievement_fanatic_collectivist_tooltip:0 "Owns all Institution Origin Provinces."
  achievement_abu_bakr_IIs_ambition:0 "Have 4 South American Colonial Subjects"
+ atleast_10_mahayana_tooltip:0 "Atleast 10 countries must follow the Mahayana faith."
+ achievement_sakoku_law_tooltip:0 "Go Full Isolationist in atleast 6 Incidents."
+ achievement_live_long_and_prosper_tooltip:0 "At least 30 States must be Prosperous."

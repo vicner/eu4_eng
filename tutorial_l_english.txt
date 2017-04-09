@@ -300,7 +300,7 @@
  TUT_CAM_CHAPTER02_PAGE05_OBJECTIVES:0 "§MConvert§! the province of Granada to continue."
  TUT_CAM_CHAPTER02_PAGE06_TITLE:0 "§YBuildings (6/19)§!"
  TUT_CAM_CHAPTER02_PAGE06_TEXT:0 "Buildings are an important part of improving your nation's economy and military strength. Most buildings can be built in all provinces, but they are limited by the number of §Mbuilding plots§! in a province.  All buildings cost ducats to build.\n\n§YRemember to unpause the game.§!"
- TUT_CAM_CHAPTER02_PAGE06_OBJECTIVES:0 "Construct a §MTemple§! in Granada to continue."
+ TUT_CAM_CHAPTER02_PAGE06_OBJECTIVES:1 "Construct a §MChurch§! in Granada to continue."
  TUT_CAM_CHAPTER02_PAGE07_TITLE:0 "§YEvents (7/19)§!"
  TUT_CAM_CHAPTER02_PAGE07_TEXT:0 "Events occur randomly as you play. They often give you a choice between two or more options where the purpose is to add dynamics and flavour to the game. There are also nation-specific events for certain countries that add flavor and historical context."
  TUT_CAM_CHAPTER02_PAGE07_OBJECTIVES:0 "Click the button in the event pop-up to continue."
