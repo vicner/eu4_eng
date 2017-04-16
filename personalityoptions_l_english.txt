@@ -657,7 +657,7 @@
  desc_malevolent_personality:0 "This ruler is seen as Malevolent. The actions of your ruler are often seen as motivated by malice or hostile intent. As a result any subject countries under our control are quick to anger and fear any action we take."
  #Leaders (Generals and Admirals)
  glory_seeker_personality:0 "Glory Seeker"
- desc_glory_seeker_personality:0 "This General is a glory seeker. Troops lead by this general will acquire more prestige and army tradition than they otherwise would as they are always deployed where they will make the most visible difference."
+ desc_glory_seeker_personality:0 "This General is a glory seeker. Troops lead by this general will acquire more Prestige and Army Tradition than they otherwise would as they are always deployed where they will make the most visible difference."
  born_to_the_saddle_personality:0 "Born to the Saddle"
  desc_born_to_the_saddle_personality:0 "This General was born to the Saddle. Cavalry led by this leader will be able to make better use of their flanking advantage."
  defensive_planner_personality:0 "Defensive Planner"

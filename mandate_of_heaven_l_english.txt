@@ -174,7 +174,7 @@
  tributary_events.20.d:0 "While they have promised to help clean up the region it is clear that [From.GetName] has over time grown into a major Pirate Haven. We have always known that they are barbarians and hardly worthy of our trust but the recent actions of the [From.Monarch.GetTitle] has actually brought our countries closer to eachother."
  tributary_events.20.a:0 "We can work with this."
  tributary_events.21.t:0 "[From.GetName] is a Pirate Haven"
- tributary_events.21.d:0 "The [From.Monarch.GetTitle] of the [From.GetAdjective] has decided to keep harboring a number of well known pirates. When our local officials demanded that they clean out their ports the [From.Monarch.GetTitle] refused."
+ tributary_events.21.d:1 "The [From.Monarch.GetTitle] of [From.GetName] has decided to keep harboring a number of well known pirates. When our local officials demanded that they clean out their ports the [From.Monarch.GetTitle] refused to comply."
  tributary_events.21.a:0 "We need to reconsider their Tributary status."
  tributary_events.22.t:0 "Loyalty Rewarded"
  tributary_events.22.d:0 "As a long time and faithful tributary of [Root.Overlord.GetName] we have been sent an enormous gift. This strengthens our rule internally and will fatten our coffers immensely!"

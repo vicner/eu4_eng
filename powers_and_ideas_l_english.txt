@@ -235,7 +235,7 @@
  bayonet_leaders:0 "Bayonet Leaders"
  bayonet_leaders_desc:0 "Men who are well led will follow, so we will ensure that our officers will lead from the front."
  battlefield_commisions:0 "Battlefield Commissions"
- battlefield_commisions_desc:0 "Allows us to focus heavily on military advancements and thereby increase our army tradition."
+ battlefield_commisions_desc:0 "Allows us to focus heavily on military advancements and thereby increase our Army Tradition."
  improved_foraging:0 "Improved Foraging"
  improved_foraging_desc:0 "Traditionally we were unable to fight effectively in lands which did not supply a lot of food. However our troops have become better at acquiring food allowing larger armies to fight."
  improved_manuever:0 "Improved Maneuver"
