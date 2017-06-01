@@ -1139,3 +1139,7 @@
  TTI_ADJ:0 "Tsutsui"
  ASK:0 "Ashikaga"
  ASK_ADJ:0 "Ashikaga"
+ MVA:0 "Moravia"
+ MVA_ADJ:0 "Moravian"
+ YUA:0 "Yuan"
+ YUA_ADJ:0 "Yuan"

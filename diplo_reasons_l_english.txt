@@ -85,6 +85,7 @@
  DIPLO_WAR_SCORE_INDIVIDUAL:0 "Individual warscore against:"
  DIPLO_PEACEOFFER_VALUE:0 "Current peace offer: "
  DIPLO_ANNEX_US:0 "Would result in $WHO$'s annexation or vassalization: "
+ DIPLO_PUNISH_TRIBUTARY:0 "$THEM$ refused to subjugate to $WHO$: "
  DIPLO_WAR_BASE_RELUCTANCE:0 "Base reluctance: "
  DIPLO_WAR_BATTLE_RELUCTANCE:0 "Ongoing battles: "
  DIPLO_IN_HRE:0 "$WHO$ is a member of the Empire: "
