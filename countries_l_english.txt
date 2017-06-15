@@ -1143,3 +1143,7 @@
  MVA_ADJ:0 "Moravian"
  YUA:0 "Yuan"
  YUA_ADJ:0 "Yuan"
+ BLO:0 "Beloozero"
+ BLO_ADJ:0 "Beloozeroan"
+ RSO:0 "Rostov"
+ RSO_ADJ:0 "Rostovian"

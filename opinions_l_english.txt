@@ -188,5 +188,6 @@
  overlord_takes_stance_vs_hansa:0 "Harsh on the Hansa"
  hanseatic_kalmar_conflict:0 "Hansa-Kalmar Union Conflict"
  chi_did_not_seize_opportunity:0 "Did not Encroach on our Land"
+ siberian_intermezzo:0 "Siberian Intermezzo"
  hun_refused_to_help_rebels:0 "Refused to Help Bohemian Catholics"
  hun_crowned_by_rebels:0 "Accepted Crown from Rebels"

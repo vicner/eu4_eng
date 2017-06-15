@@ -175,7 +175,7 @@
  adm_tech_cs_29_desc:1 "At the forefront of current revolutionary thought is the radical notion of equality for all. Philosophers from different parts of the world have worked together to create a document entitled the 'Declaration of the Rights of Man and of the Citizen', proclaiming that these rights are universal and should be enforced by law. It is likely that this will have ample repercussions for the development and spread of the concepts of freedom and democracy, and we would do well not to lag behind."
  adm_tech_cs_30_desc:0 "Fortunately for us, the so-called enlightened philosophers didn't restrict themselves to writing subversive political treaties, but they also have come up with ideas in the areas of science and engineering. These are a boon to our economy and have led to an increase in production."
  adm_tech_cs_31_desc:0 "These foolish revolutionaries think they can simply consign hundreds of years of progress to the dustbin of history, all in the name of such outlandish concepts as liberty and equality. We will defeat them through the tried and tested plan of stealing the bits and pieces of their ideas that we like."
- adm_tech_cs_32_desc:0 "My secretary of state assures me that the switch to clover as a fodder crop and the addition of the turnip in a ‘four field’ rotation will increase yields in agriculture. I am inclined to promote this idea."
+ adm_tech_cs_32_desc:0 "My secretary of state assures me that the switch to clover as a fodder crop and the addition of the turnip in a 'four field' rotation will increase yields in agriculture. I am inclined to promote this idea."
  dip_tech_cs_0_name:0 "Early Ships"
  dip_tech_cs_1_name:0 "Merchants & Trade"
  dip_tech_cs_2_name:0 "The Barque"

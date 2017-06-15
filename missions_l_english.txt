@@ -174,3 +174,5 @@
  gain_foothold_in_france_desc:0 "Following the discovery of Europe, a foothold in any French province could offer opportunities for further expansion."
  conquer_the_whiteskin_title:0 "Conquer the Whiteskin: $PROVINCENAME$"
  conquer_the_whiteskin_desc:0 "We must bring civilization to the barbarians of $PROVINCENAME$!"
+ kremlin_expansion_title:0 "Strengthen the [Root.GetCapitalName] Kremlin"
+ kremlin_expansion_desc:0 "Our people rely on us for protection but the fortress that guards our capital is a weak and undersized one. Let us expand the [Root.GetCapitalName] Kremlin and strengthen our defences, this will make the entire province safer and will allow our people to settle the land in peace."

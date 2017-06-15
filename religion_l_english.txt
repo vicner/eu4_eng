@@ -36,7 +36,7 @@
  odin:0 "Odin"
  odin_desc:0 "Odin is the major god of the Norse pantheon, commonly associated with war, victory and death."
  freya:0 "Freya"
- freya_desc:0 "Freya is the goddess commonly worshipped for her love, beauty, fertility and her promises of wealth."
+ freya_desc:0 "Freyja is the goddess commonly worshipped for her love, beauty, fertility and her promises of wealth."
  tor:0 "Tor"
  tor_desc:0 "Tor is the son of Odin and is the god protecting humankind against the terrors trying to enter Midgard."
  tyr:0 "Tyr"

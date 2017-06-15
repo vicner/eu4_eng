@@ -308,7 +308,7 @@
  canal_events.EVTOPTA23:0 "Hire more workers"
  canal_events.EVTOPTB23:0 "Send soldiers"
  canal_events.EVTNAME24:0 "Lack of Fresh Water"
- canal_events.EVTDESC24:0 "Our canal project in [Root.GetName] has progressed far inland. Unfortunately this has lead to the camps on the frontier no longer has an accessible source of fresh water. Additional resources are needed to make sure they can be supplied properly."
+ canal_events.EVTDESC24:0 "Our canal project in [Root.GetName] has progressed far inland. Unfortunately this has led to the camps on the frontier no longer has an accessible source of fresh water. Additional resources are needed to make sure they can be supplied properly."
  canal_events.EVTOPTA24:0 "We will handle it"
  canal_events.EVTOPTB24:0 "Let them try to solve it"
  trade_company_events.EVTNAME1:0 "Resettlement"

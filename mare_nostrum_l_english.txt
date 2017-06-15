@@ -443,5 +443,6 @@
  SPY_OFFENCE_BASE:0 "Base speed: $VAL|Y$"
  EST_IS_TERRITORIAL_CORE:0 "Province is a Territorial Core"
  religious_turmoil_timelimit_tt:0 "Has had §YReligious Turmoil§! for 25 years"
- custom_idea_slave_raiders:0 "Slave Raiders"
+ custom_idea_slave_raiders:1 "Coastal Raiders"
+ custom_idea_slave_raiders_desc:1 "Our country has a long tradition of raiding the coastlines for what it requires in the form of sailors, money and all other good things in life."
  
