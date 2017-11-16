@@ -289,7 +289,7 @@
  HINT_DISCIPLINE_TITLE:0 "Discipline"
  HINT_DISCIPLINE_TEXT:0 "Discipline directly affects the amount of damage your troops deal and how much damage they take during combat. Affects both casualties and morale damage."
  HINT_COMBATWIDTH_TITLE:0 "Combat Width"
- HINT_COMBATWIDTH_TEXT:0 "Combat Width determines how many regiments may fight at the same time and it is reduced by difficult terrain. Increased Combat Width can be unlocked by Military Technology."
+ HINT_COMBATWIDTH_TEXT:1 "Combat Width determines how many regiments may fight at the same time. Increased Combat Width can be unlocked by Military Technology."
  HINT_FORTLVL_TITLE:0 "Fort Level"
  HINT_FORTLVL_TEXT:0 "A higher Fort Level means the siege will take longer to finish. Fort Level directly adds a negative modifier to any siege roll. Fort Level can be improved by building Fort buildings in the province."
  HINT_SIEGE_TITLE:0 "Siege"

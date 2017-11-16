@@ -272,7 +272,7 @@
  TUT_CAM_CHAPTER01_PAGE05_TEXT:0 "The War Overview window gives you an overview of how the war is going, who the belligerents are and who is the war leader of each side. Battles and sieges are listed in the bottom."
  TUT_CAM_CHAPTER01_PAGE05_OBJECTIVES:0 "Click §MNext§! to continue."
  TUT_CAM_CHAPTER01_PAGE06_TITLE:0 "§YDefeat Granada (6/8)§!"
- TUT_CAM_CHAPTER01_PAGE06_TEXT:0 "The results of the war will be recorded and are presented as §MWar Score§!. War Score is gained by occupying enemy provinces and by winning land or naval battles. If an enemy occupies your provinces or defeats you in battle, you will instead lose warscore. War Score decides what can be demanded in a §MPeace Offer§!.\n\n§YRemember to unpause the game.§!"
+ TUT_CAM_CHAPTER01_PAGE06_TEXT:0 "The results of the war will be recorded and are presented as §MWar Score§!. War Score is gained by occupying enemy provinces and by winning land or naval battles. If an enemy occupies your provinces or defeats you in battle, you will instead lose War Score. War Score decides what can be demanded in a §MPeace Offer§!.\n\n§YRemember to unpause the game.§!"
  TUT_CAM_CHAPTER01_PAGE06_OBJECTIVES:0 "Have a §MWar Score§! of 100% to continue."
  TUT_CAM_CHAPTER01_PAGE07_TITLE:0 "§YAnnex Granada (7/8)§!"
  TUT_CAM_CHAPTER01_PAGE07_TEXT:0 "Granada is defeated! Annex them to finish the reconquest of Spain.\n\n§YRight-click the §Mwar overview§Y shield at the bottom-right. Select their only province to demand their annexation and then click §MSend Demand§!. Remember to unpause the game.§W"

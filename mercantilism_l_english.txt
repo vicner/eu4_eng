@@ -1,5 +1,5 @@
 ﻿l_english:
- refused_food_import:0 "Refused to import food"
+ refused_food_import:0 "Refused to Import Food"
  desc_refused_food_import:0 "Our nation's refusal to relax trade barriers during a time of food shortage has caused uproar among the affected."
  buying_american:0 "Buying American"
  desc_buying_american:0 "We have relaxed barriers of trade to allow imports from our neighbor's colony in America."
