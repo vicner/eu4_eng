@@ -869,7 +869,7 @@
  refused_war_against_rival:0 "Dishonored Call to Arms against $TARGET$"
  privateering_rival:0 "Sending Privateers against $TARGET$"
  supporting_rebels_in_rival:0 "Supporting Rebels in $TARGET$"
- WARN_LOW_ARMY_MAINTENANCE:0 "§YYou are not at 100% Army Mintenance!§!"
+ WARN_LOW_ARMY_MAINTENANCE:1 "§YYou are not at 100% Army Maintenance!§!"
  WARN_LOW_NAVY_MAINTENANCE:0 "§YYou are not at 100% Fleet Maintenance!§!"
  SUBSIDY_OPINION_EFFECT:1 "This is estimated to improve $COUNTRY$'s opinion of us by $YEARLY$ each year, up to a maximum of $MAX$. The yearly improvement depends on $COUNTRY$'s income."
  SUBSIDY_POWERPROJ_EFFECT:0 "Due to subsidizing an enemy of one or more rivals ($RIVALS$), you would gain a total of $TOTAL$ power projection."

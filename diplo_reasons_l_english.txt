@@ -221,6 +221,7 @@
  DIPLO_SAME_RELIGION:0 "Both countries are $NAME$: "
  DIPLO_SAME_CULTURE:0 "Same culture: "
  DIPLO_NOT_SAME_RELIGION:0 "Not same religion: "
+ DIPLO_NOT_SAME_LEAGUE_LEADER:0 "Leader of opposing league: "
  DIPLO_NOT_SAME_CULTURE:0 "Not same culture: "
  DIPLO_RELIGIOUS_SCHOOL_RELATIONS:0 "Religious school relations: "
  DIPLO_SAME_RELIGIOUS_SCHOOL:0 "Same religious school: "
