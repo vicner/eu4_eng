@@ -892,3 +892,5 @@
  SAVEGAME_ERROR_BACK_UP:1 "Failed to back up save file!"
  SAVEGAME_ERROR_BACK_UP_DESC:1 "Backing up save file failed when renaming $FROM|Y$ to $TO|Y$.\n\nYou may want to try removing one or both of these files from the save folder."
  SAVEITEM_START_WITH_MISSING_DLC:0 "§RThis save game was created with DLC that you are missing. It's very likely that your game will be unstable! If this is an ironman save achievements will be disabled!§!"
+ IS_NOT_IN_LARGE_DEBT:0 "Is not in large debt."
+ IS_IN_ARGE_DEBT:0 "Is in large debt."

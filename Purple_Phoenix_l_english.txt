@@ -1,8 +1,4 @@
 ﻿l_english:
- recover_west_anatolia_title:0 "Recover Western Anatolia"
- recover_west_anatolia_desc:0 "With the coast recovered we can now begin the reconquest of Anatolia!"
- recover_central_anatolia_title:0 "Recover Central Anatolia"
- recover_central_anatolia_desc:0 "We have the Muslims on the run, continue to push them back!"
  recover_east_anatolia_title:0 "Recover Eastern Anatolia"
  recover_east_anatolia_desc:0 "Complete the reconquest of Anatolia!"
  recover_crimea_title:0 "Recover Caffa"

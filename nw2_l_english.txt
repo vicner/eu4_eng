@@ -435,6 +435,6 @@
  TRANSFER_TRADE_POWER_THEY_NOT_ADVANCED:0 "They are not advanced enough to transfer trade power to us."
  OWNED_BY_OR_VASSALS:0 "Owned by §Y$COUNTRY$§! or its Subjects."
  NOT_OWNED_BY_OR_VASSALS:0 "Not owned by §Y$COUNTRY$§! or its Subjects."
- OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "Owned by $COUNTRY|Y$ or its Subjects (excluding Tributary States)."
- NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:0 "Not owned by $COUNTRY|Y$ or its Subjects (excluding Tributary States)."
+ OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Owned by $COUNTRY|Y$ or its non-Tributary Subjects."
+ NOT_OWNED_BY_OR_NON_SOVEREIGN_SUBJECTS:1 "Not owned by $COUNTRY|Y$ or its non-Tributary Subjects."
  FE_USE_DYNAMIC_PROVINCE_NAMES:0 "Use Dynamic Province Names"

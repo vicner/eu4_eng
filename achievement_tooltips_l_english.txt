@@ -37,3 +37,5 @@
  propagated_in_five_moluccan_provinces:0 "[Root.GetName] Propagated Religion in 5 provinces in the §YMollucas§! Trade Node."
  achievement_david_the_builder_tooltip:0 "[Root.GetName] has no open building slots in any of their provinces."
  all_coffee_owned_by_you:0 "No §YCoffee§! provinces in Asia, Europe, Africa or Oceania are owned by European Countries."
+ chop_chop.tooltip:0 "Had §Y6§! separate consorts with only one Monarch."
+ anglophile.tooltip:0 "Completed all English and British missions."
