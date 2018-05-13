@@ -22,7 +22,7 @@
  SIEGE_CHANCE_LINE:0 "$NAME$: $RANGE$ (Chance: $CHANCE$)"
  SIEGE_DATES:0 "This siege has been going on for §Y$TOTAL$§! days. The next siege phase is in §Y$LEFT$§! days."
  SIEGE_PAUSING_CONSTRUCTION:0 "§RProgress is halted while the province is besieged.§!"
- PEACE_OFFER_GOLD_LIMIT:0 "Limited to §G$MAX$§!¤ because of §Y$TAG$§! treasury §Y$TRE$§!¤ and up to one loan of §Y$LOA$§!¤."
+ PEACE_OFFER_GOLD_LIMIT:2 "Maximum is $MAX_LOANS$ loans totalling §Y$TOTAL$§!¤ ($WS|G$ War Score)."
  ANNUL_TREATIES_CANT_GUARANTEE:0 "Unable to guarantee, as we have annul treaties until §Y$DATE$§!"
  ANNUL_TREATIES_CANT_ALLIANCE:0 "Unable to create alliance, as we have annul treaties until §Y$DATE$§!"
  ANNUL_TREATIES_CANT_MIL_ACCESS:0 "Unable to ask or grant military access, as we have annul treaties until §Y$DATE$§!"
