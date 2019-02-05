@@ -639,3 +639,4 @@
  MIL_POWER_COST_EFFECT:1 "Lose $AMOUNT|R$ Military Power.\n"
  HAS_HOSTILE_TROOPS:0 "Has hostile troops.\n"
  HAS_NO_HOSTILE_TROOPS:0 "Has no hostile troops.\n"
+ OWNS_ALL_PROVINCES:0 "Owns all provinces:\n"

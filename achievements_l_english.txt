@@ -38,7 +38,7 @@
  NEW_ACHIEVEMENT_1_20_NAME:0 "Cold War"
  NEW_ACHIEVEMENT_1_20_DESC:0 "Win a war without fighting a single battle."
  NEW_ACHIEVEMENT_1_21_NAME:0 "Royal Authority"
- NEW_ACHIEVEMENT_1_21_DESC:0 "Install an union through a succession war."
+ NEW_ACHIEVEMENT_1_21_DESC:0 "Install a union through a succession war."
  NEW_ACHIEVEMENT_1_22_NAME:0 "Viva la Revolución!"
  NEW_ACHIEVEMENT_1_22_DESC:0 "Have rebels you support in another country enforce their demands."
  NEW_ACHIEVEMENT_1_23_NAME:0 "Brothers in Arms"

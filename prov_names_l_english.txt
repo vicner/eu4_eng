@@ -2635,7 +2635,7 @@
  PROV2635:1 "Lacandon"
  PROV2636:0 "Chacujal"
  PROV2637:0 "Chortli"
- PROV2638:0 "Xocnochco"
+ PROV2638:1 "Xoconochco"
  PROV2639:0 "Raritan"
  PROV2640:0 "Lenca"
  PROV2641:0 "Tziccoac"
