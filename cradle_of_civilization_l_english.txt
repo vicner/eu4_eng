@@ -496,7 +496,7 @@
  trade_policy_events.9.b:0 "We should not ask what they can do for us. What is good for them is good for us."
  trade_policy_events.9.c:0 "Let us make [Root.prominent_merchant.GetName] a the new architect for our trade policies."
  trade_policy_events.10.t:0 "Increased Demand for [trade_province.GetFancyTradeGood]"
- trade_policy_events.10.d:0 "[trade_province.GetFancyTradeGood_LOW] from [trade_province.GetName] fetch a very good price in foreign as well as domestic markets lately. So much so that it has given rise to a new generation of entrepreneurs and economic speculation."
+ trade_policy_events.10.d:1 "[trade_province.GetFancyTradeGood] from [trade_province.GetName] fetch a very good price in foreign as well as domestic markets lately. So much so that it has given rise to a new generation of entrepreneurs and economic speculation."
  trade_policy_events.10.a:0 "We should step in to limit any excesses."
  trade_policy_events.10.b:0 "Let us lighten regulations to really benefit local entrepreneurs."
  trade_policy_events.11.t:0 "Lack of Demand for [trade_province.GetFancyTradeGood]"

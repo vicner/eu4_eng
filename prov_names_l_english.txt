@@ -2366,7 +2366,7 @@
  PROV2366:0 "Utva"
  PROV2367:0 "Lower Yik"
  PROV2368:0 "Karamegdan"
- PROV2369:0 "Lower Ishim"
+ PROV2369:1 "Upper Ishim"
  PROV2370:0 "Kungirot"
  PROV2371:0 "Song La"
  PROV2372:0 "Hai Phong"
