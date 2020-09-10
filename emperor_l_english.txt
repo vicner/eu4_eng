@@ -724,7 +724,7 @@
  alert_piety_interaction_delayed:0 ""
  CROWN_LAND_NO_EFFECT:0 "No Effect"
  CROWN_LAND_NO_EFFECT_TOOLTIP:0 "The current level of Crown Land has no effect."
- CROWN_LAND_LEVEL_DESC:0 "Crown Land is a measure of how much land is directly in control by the state. Having very little land means having troubles enforcing your will versus the estates. At §Y40%§! to §Y20%§! land we will have penalties to our Absolutism. Holding less than §Y20%§! Land will have adverse penalties to our Authority.\n\nCrown Land can be gained by:\n  §YSeizing Land§! from Estates.\n  §YDeveloping§! provinces.\n  §YHaving High Absolutism§! and conquering land."
+ CROWN_LAND_LEVEL_DESC:1 "Crown Land is a measure of how much land is directly in control by the state. Having higher than §Y50%§! land will see us large benefits to our rule. Holding less than §Y30%§! Land will have adverse penalties to our Authority.\n\nCrown Land can be gained by:\n  §YSeizing Land§! from Estates.\n  §YDeveloping§! provinces.\n  §YConquer Land§! with less than §Y60%§! estate influence.\n  §YConquer Land§! with high absolutism."
  DELEGATE_PATRIARCH_TOOLTIP:0 "§YAssign Metropolis§!"
  DELEGATE_HOLYORDER_TOOLTIP:0 "§YAssign $ORDER$§!"
  DELEGATE_PASHA_ALREADY_HAS:0 "§R$STATE|Y$ already has a Pasha assigned!§!\n"
@@ -1038,3 +1038,8 @@
  emperor_landfriede:0 "Ewiger Landfriede"
  ESTATE_NOT_ENOUGH_CROWNLAND:0 "Not enough Crownland"
  EXPAND_EMPIRE_CB:0 "Gives casus-belli on non-members bordering the Empire to force them to join the Empire."
+ force_peasant_republic_desc:0 "[From.GetName] will become a peasant republic."
+ CB_ALLOWED_force_peasant_republic:0 "Enforce Peasant Rule"
+ PEACE_force_peasant_republic:0 "Enforce Peasant Rule"
+ ESTATE_PRIVILEGE_MAX_GRANTED:0 "§RYou can't grant an estate more than 4 Privileges.§!"
+
