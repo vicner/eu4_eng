@@ -323,7 +323,7 @@
  estate_brahmins_flexible_deities_revoke_tooltip:1 "The decision that allows you to change your Personal Deity every §Y20§! years at the cost of §Y25§! legitimacy will be disabled."
  estate_maratha_levies:0 "Increased Levies"
  estate_maratha_levies_for_muslims:0 "Increased Maratha Recruitment"
- estate_maratha_levies_for_muslims_effect_tooltip:0 "Every owned province of §YHindu§! faith gains §Y'Increased Maratha Recruitment'§!, giving the following effects:\nLocal Manpower Modifier: §G+20.0%§!"
+ estate_maratha_levies_for_muslims_effect_tooltip:1 "Every owned province of §YHindu§! faith gains §Y'Increased Maratha Recruitment'§!, giving the following effects:\nLocal Manpower Modifier: §G+30.0%§!"
  estate_maratha_levies_for_muslims_revoke_tooltip:0 "The modifier §Y'Increased Maratha Recruitment'§! is removed from all owned §YHindi§! provinces."
  estate_maratha_levies_for_muslims_mod:0 "Increased Maratha Recruitment"
  desc_estate_maratha_levies_for_muslims_mod:0 "The state has increased its recruitment of the Marathas."
@@ -626,6 +626,7 @@
  desc_agenda_guaranteed_minority_rights:0 "The rights of the minority in this province have recently been guaranteed, allowing the populace to breathe a sigh of relief."
  #New Parliamentary Debate
  increase_crown_land_share:0 "Centralize Land Ownership"
+ desc_increase_crown_land_share:0 "By centralizing the ownership of the land in royal hands, we can control the widespread power of the Estates much better."
  #Estate monopoly events 
  monopoly_privileges.1.t:0 "Extension of the Monopoly on Textiles"
  monopoly_privileges.1.d.burghers:0 "The monopoly on textiles we granted to the [Root.GetBurghersName] has expired, meaning that we are now able to reclaim the income from our textile production. However, the [Root.GetBurghersName] are keen to keep their privileges and are offering to pay us a lump sum in return for the monopoly being guaranteed for a further 10 years."
@@ -713,7 +714,7 @@
 
  pay_crown_land:0 "Allow Use of Crown Lands"
 
- estate_church_propagate_religion_trigger_tooltip:1 "All inhabited provinces in the §Y[agenda_trade_node.GetTradeNodeName]§! trade node follow the §Y[Root.Religion.GetName]§! faith."
+ estate_church_propagate_religion_trigger_tooltip:2 "All inhabited provinces in the §Y[agenda_trade_node.GetTradeNodeName]§! trade node follow the §Y[Root.Religion.GetName]§! faith, or follow a Christian, Muslim, or Jewish faith."
  agenda_automatically_completed_explain_dhimmi:0 "§R25%§! local autonomy is added to §Y[agenda_province.GetName]§!."
  estate_nobles_protect_our_culture_effect_tooltip:0 "If conquered, §Y[agenda_province.GetName]§! will lose §G5§! years of separatism."
  owned_by_country_of_root_religion:0 "Is owned by a country of §Y[Root.Religion.GetName]§! faith."
@@ -1262,7 +1263,7 @@
  estate_cossacks_exploration_expedition_mod:0 "Cossack Exploration"
  desc_estate_cossacks_exploration_expedition_mod:0 "We are harnessing the pioneering instincts of the cossacks to accelerate the settlement and growth of this area."
  decision_once_every_twenty_years:0 "This decision can only be taken once every §Y20§! years."
- estate_cossacks_exploration_expedition_effect_tooltip:0 "§G-30%§! local development cost in all Steppe provinces"
+ estate_cossacks_exploration_expedition_effect_tooltip:1 "§G-15%§! local development cost in all Steppe provinces"
  estate_cossacks_exploration_expedition_mod_revoke_tooltip:0 "Removes §YCossack Exploration§! from all owned Steppe provinces."
  estate_burghers_exclusive_trade_rights_enact_tooltip:2 "Adds §R20§! local autonomy and §G-15%§! local development cost to Centers of Trade in §Y[This.GetTradeNodeName]§! trade node."
  estate_burghers_exclusive_trade_rights_revoke_tooltip:0 "Removes "Exclusive Trade Rights" modifier from all owned provinces"
